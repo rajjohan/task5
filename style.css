@@ -1,0 +1,51 @@
+#user{
+    background-color: aliceblue;
+    width: 20%;
+margin: 0% auto;
+padding: 20px 14px;
+margin-top: 40px;
+height: 55%;
+}
+.head{
+    text-align: center;
+    color: red;
+    font-style: inherit;
+    font-size: 7ch;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#login{
+    background-color: salmon;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    margin: 0% auto;
+}
+.for{
+    margin-left: 55%;
+}
+.box{
+    margin-right: 14% ;
+}
+#user .inputt{
+ border-radius: 7px;
+ outline: invert;
+ width: 92%;
+ border: 1px solid black;
+ margin-top: 13px;
+ padding: 8px;   
+ border-top: 7ch;
+}
+.in{
+  margin: 6% 0%;
+  padding: 0% 28%;
+  border-radius: 7px;
+  width: 80%;
+  outline: transparent;
+  border: 1px black;  
+}
+.or{
+    padding-left: 25%;
+}
+
+
+
